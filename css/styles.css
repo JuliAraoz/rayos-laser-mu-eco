@@ -1400,8 +1400,8 @@ input[type='checkbox'] {
 }
 
 .footer {
-	padding-top: 3rem;
-	padding-bottom: 0.5rem;
+	padding-top: 0rem;
+	padding-bottom: 0rem;
 	background-color: #5f4dee;
 }
 
@@ -2092,7 +2092,7 @@ a:hover.back-to-top {
 	/* Newsletter */
 	.form .text-container {
 		width: 64.75rem;
-		padding-top: 6rem;
+		padding-top: 0rem;
 		padding-bottom: 5.5rem;
 	}
 
@@ -2152,7 +2152,7 @@ a:hover.back-to-top {
 	background-color: rgb(255, 255, 255);
 }
 .fondo-segundo-2{
-	background-color: #5555556e;
+	background-color: #f3f7fd;
 }
 .centrado{
 	text-align: center;
@@ -2168,5 +2168,5 @@ a:hover.back-to-top {
 	width: 170px;
 }
 .carrusel{
-	padding: 30px;
+	padding: 0px;
 }
