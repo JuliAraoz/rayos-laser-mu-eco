@@ -2170,3 +2170,9 @@ a:hover.back-to-top {
 .carrusel{
 	padding: 0px;
 }
+@media only screen and (max-width: 480px) {
+	.img-muñeco{
+		width: 350px;
+	}
+  }
+  
