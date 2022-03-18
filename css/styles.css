@@ -1234,6 +1234,13 @@ input[type='checkbox'] {
 	font-size: 1.5rem;
 	vertical-align: 40%;
 }
+.price-sc {
+	margin-right: 0.25rem;
+	color: #434c54;
+	font-weight: 700;
+	font-size: 1rem;
+	vertical-align: 40%;
+}
 
 .cards-2 .card .price .value {
 	color: #434c54;
